@@ -25,7 +25,7 @@ Given an integer array `nums`, return `true` if any value appears at least twice
 **O(n)**
 
 ## Language
-Java
+**Java**
 
 ## Pattern
 Hashing
