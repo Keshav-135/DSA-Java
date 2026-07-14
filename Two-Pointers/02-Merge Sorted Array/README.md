@@ -68,7 +68,7 @@ The merge is performed in-place without using any extra array.
 
 ## 💻 Language
 
-Java
+**Java**
 
 ---
 
