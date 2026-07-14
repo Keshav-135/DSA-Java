@@ -58,7 +58,7 @@ The array is modified in-place without using any extra space.
 
 ## 💻 Language
 
-Java
+**Java**
 
 ---
 
