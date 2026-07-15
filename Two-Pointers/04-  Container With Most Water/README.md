@@ -39,7 +39,7 @@ Return the maximum amount of water that can be stored.
 
 ## Time Complexity
 
-O(n)
+**O(n)**
 
 Only one traversal of the array is required.
 
@@ -47,7 +47,7 @@ Only one traversal of the array is required.
 
 ## Space Complexity
 
-O(1)
+**O(1)**
 
 No extra space is used.
 
