@@ -1,6 +1,6 @@
 # 🔍 Binary Search
 ---
-This folder contains LeetCode problems based on the Sliding Window pattern.
+This folder contains LeetCode problems based on the Binary Search pattern.
 ---
 ## 📖 Overview
 
